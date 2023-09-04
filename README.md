@@ -44,24 +44,5 @@ This will start a new development server at localhost:3000
 3. `node index.js` to start the server
 
 
-**Any Doubts regarding Project can be addressed to any of the Contributors**
-Any type of collabration and suggestions are also Welcomed 😁
-
-___
-
-### Project Screenshots
-![Sign In](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/513/datas/gallery.jpg	)
-
-![Sign Up](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/504/datas/gallery.jpg)
-
-![Get Details](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/511/datas/gallery.jpg)
-
-![Post Details](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/510/datas/gallery.jpg)
-
-![Update Details](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/515/datas/gallery.jpg)
-
-
----
-
 	This concept can further be applied to the whole consumer-producer market supply chain.
 
